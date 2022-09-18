@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @the-zank
-- 👀 I’m interested in Cyber-Securty  
+- 👀 I’m interested in Cyber-Security  
 - 🌱 I’m currently learning Js-NodeJS
 
 
