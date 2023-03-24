@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @the-zank
 - 👀 I’m interested in Cyber-Security  
-- 🌱 I’m currently learning Js-NodeJS
+- 🌱 I’m currently learning Laravel
 
 
 <!---
